@@ -1,0 +1,31 @@
+{
+	"name": "webpack-dev-express",
+	"version": "1.0.0",
+	"description": "Example for Auto reloading (live reload) using webpack-dev-middleware and webpack-hot-middleware.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hadimousavi/webpack-dev-server-on-express.git"
+	},
+	"keywords": [
+		"webpack",
+		"devserver",
+		"webpackdevserver",
+		"express",
+		"livereload",
+		"nodewebpack"
+	],
+	"author": {
+		"name": "Hadi Mousavi",
+		"email": "me@haddi.ir",
+		"url": "http://haddi.ir"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hadimousavi/webpack-dev-server-on-express/issues"
+	},
+	"homepage": "https://github.com/hadimousavi/webpack-dev-server-on-express"
+}
