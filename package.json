@@ -58,7 +58,7 @@
 		"ignore-styles": "^5.0.1",
 		"jest": "^26.0.1",
 		"mini-css-extract-plugin": "^0.9.0",
-		"node-sass": "^4.14.1",
+		"node-sass": "^7.0.0",
 		"nodemon": "^2.0.3",
 		"preact": "^10.4.1",
 		"preact-render-to-string": "^5.1.7",
